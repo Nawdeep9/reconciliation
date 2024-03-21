@@ -1,0 +1,2 @@
+java -jar ./convertor-1.0-jar-with-dependencies.jar "Put path of your folder or full path of your excel file in run.bat before running the software, for more information please go through README.md"
+@pause
